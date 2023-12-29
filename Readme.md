@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128596330/14.2.6%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T227465)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -16,9 +11,6 @@
 * [AjaxLogin.js](./CS/DXWebApplication1/Scripts/AjaxLogin.js) (VB: [AjaxLogin.js](./VB/DXWebApplication1/Scripts/AjaxLogin.js))
 <!-- default file list end -->
 # How to bind a report to a stored procedure with parameters provided by the SQL Data Source in an ASP.NET MVC application
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t227465/)**
-<!-- run online end -->
 
 
 This example demonstrates how to bind a report to a stored procedure provided by a <a href="https://documentation.devexpress.com/#CoreLibraries/clsDevExpressDataAccessSqlSqlDataSourcetopic">Sql Data Source</a>. It also shows how to map report parameters to stored procedure parameters. <br /><br />In this example, a report is bound to the '<em>SalesByCategory'</em> stored procedure (the Northwind data base) with the 'CategoryName' and 'OrderYear' parameters.<br /><br />Refer to the <a href="https://documentation.devexpress.com/#XtraReports/CustomDocument10555">How to: Bind a Report to a Stored Procedure</a> documentation for additional details.<br /><br />See also:<br /><a href="https://documentation.devexpress.com/#XtraReports/CustomDocument9997">Parameters Overview</a>
